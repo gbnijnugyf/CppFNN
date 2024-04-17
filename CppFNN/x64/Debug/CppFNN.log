@@ -1,0 +1,5 @@
+﻿  CppFNN.cpp
+D:\college_study\微专业-人工智能\深度学习\CppFNN\CppFNN\CppFNN.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\college_study\微专业-人工智能\深度学习\CppFNN\CppFNN\CppFNN.cpp(110,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\college_study\微专业-人工智能\深度学习\CppFNN\CppFNN\CppFNN.cpp(127,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  CppFNN.vcxproj -> D:\college_study\微专业-人工智能\深度学习\CppFNN\x64\Debug\CppFNN.exe
